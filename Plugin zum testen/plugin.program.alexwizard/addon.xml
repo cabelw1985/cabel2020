@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.program.ghost.alexwizard" name="[B][COLOR aqua]Alex[/COLOR] [COLOR aqua]Wizard[/COLOR] [/B]" version="1.0.0" provider-name="Akex Team">
+<addon id="plugin.program.alexwizard" name="[B][COLOR aqua]Alex[/COLOR] [COLOR aqua]Wizard[/COLOR] [/B]" version="1.0.0" provider-name="Akex Team">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
