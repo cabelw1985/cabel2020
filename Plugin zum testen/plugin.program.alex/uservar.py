@@ -7,19 +7,19 @@ ADDON_ID       = xbmcaddon.Addon().getAddonInfo('id')
 ADDONTITLE     = 'alex wizard'
 EXCLUDES       = [ADDON_ID]
 # Text File with build info in it.
-BUILDFILE      = 'https://raw.githubusercontent.com/cabelw1985/cabelplugin/master/alexplugintext/autobuilds.txt'
+BUILDFILE      = 'https://raw.githubusercontent.com/cabelw1985/cabel2020/master/plugin/textdatei/autobuilds.txt'
 # How often you would list it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK    = 0
 # Text File with apk info in it.
-APKFILE        = 'https://raw.githubusercontent.com/cabelw1985/cabelplugin/master/text/apk.txt'
+APKFILE        = 'https://raw.githubusercontent.com/cabelw1985/cabel2020/master/plugin/textdatei/apk.txt'
 # Text File with Youtube Videos urls.  Leave as 'http://' to ignore
 YOUTUBETITLE   = 'YouTube Storm Tutorials'
-YOUTUBEFILE    = 'https://raw.githubusercontent.com/cabelw1985/cabelplugin/master/text/youtube.txt'
+YOUTUBEFILE    = 'https://raw.githubusercontent.com/cabelw1985/cabel2020/master/plugin/textdatei/youtube.txt'
 # Text File for addon installer.  Leave as 'http://' to ignore
-ADDONFILE      = 'http://sgkodi.de/Wizard-Daten/Addons/addons.txt'
+ADDONFILE      = 'https://raw.githubusercontent.com/cabelw1985/cabel2020/master/plugin/textdatei/addons.txt'
 # Text File for advanced settings.  Leave as 'http://' to ignore
-ADVANCEDFILE   = 'http://sgkodi.de/Wizard-Daten/AS/advancedsettings.txt'
+ADVANCEDFILE   = 'https://raw.githubusercontent.com/cabelw1985/cabel2020/master/plugin/textdatei/advanced.txt'
 
 # Dont need to edit just here for icons stored locally
 PATH           = xbmcaddon.Addon().getAddonInfo('path')
@@ -108,7 +108,7 @@ REPOZIPURL     = 'https://raw.github.com/cabelw1985/repocabel/master/zip/reposit
 # Enable Notification screen Yes or No
 ENABLE         = 'YES'
 # Url to notification file
-NOTIFICATION   = 'https://raw.github.com/cabelw1985/cabelplugin/master/text/notify.txt'
+NOTIFICATION   = 'https://raw.githubusercontent.com/cabelw1985/cabel2020/master/plugin/textdatei/notify.txt'
 # Use either 'Text' or 'Image'
 HEADERTYPE     = 'Text'
 HEADERMESSAGE  = 'Cabel Wizard'
