@@ -20,7 +20,7 @@ theme="http://"
 icon="http://ghost-repo.de/Wizard2/RiderGirL.jpg"
 fanart="http://ghost-repo.de/Wizard2/RiderGirl.jpg"
 preview="http://"
-adult="Yes"
+adult="yes"
 description="RiderGirL [COLOR red]ohne XXX[/COLOR]"
 counter="2"
 
@@ -157,7 +157,18 @@ preview="https://youtu.be/eC91Ra3z84s"
 adult="no"
 description="[COLOR lime]Build za Kodi 17.x Krypton.[/COLOR] [COLOR white]Ne placajte ovu besplatnu instalaciju[/COLOR]. [COLOR lime]BS Green Build Verzija 5.0[/COLOR][COLOR white]. Pratite nas na[/COLOR] [COLOR cyan]Facebook[/COLOR] [COLOR white]grupi:[/COLOR] [COLOR lime]Balkan Green[/COLOR] [COLOR white]ili putem[/COLOR] [COLOR cyan]web stranice[/COLOR] [COLOR lime]kodibalkan.org[/COLOR]. [COLOR white]Vas[/COLOR]  [COLOR lime]Kodi Balkan Green.[/COLOR]"
 
-
+name="RiderGirL"
+version="1.4.2"
+url="http://ghost-repo.de/builds/RiderGirL.zip"
+gui="http://"
+kodi="18.0"
+theme="http://"
+icon="http://ghost-repo.de/Wizard2/RiderGirL.jpg"
+fanart="http://ghost-repo.de/Wizard2/RiderGirl.jpg"
+preview="http://"
+adult="no"
+description="RiderGirL [COLOR red]ohne XXX[/COLOR]"
+counter="2"
 
 
 
