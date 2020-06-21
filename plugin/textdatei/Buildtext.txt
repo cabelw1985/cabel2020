@@ -20,7 +20,7 @@ theme="http://"
 icon="http://ghost-repo.de/Wizard2/RiderGirL.jpg"
 fanart="http://ghost-repo.de/Wizard2/RiderGirl.jpg"
 preview="http://"
-adult="no"
+adult="Yes"
 description="RiderGirL [COLOR red]ohne XXX[/COLOR]"
 counter="2"
 
