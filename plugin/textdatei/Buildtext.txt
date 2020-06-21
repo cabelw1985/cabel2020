@@ -33,7 +33,7 @@ theme="http://"
 icon="http://ghost-repo.de/Wizard2/CyberGhost.jpg"
 fanart="http://ghost-repo.de/Wizard2/CyberGhost.jpg"
 preview="http://"
-adult="no"
+adult="YES"
 description="CyberGhost [COLOR red]mit XXX[/COLOR]"
 counter="3"
 
