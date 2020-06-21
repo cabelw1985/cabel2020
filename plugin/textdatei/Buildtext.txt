@@ -11,7 +11,7 @@ adult="no"
 description="CyberGirl [COLOR red]mit XXX[/COLOR]"
 counter="1"
 
-name="RiderGirL"
+name="RiderGfhfhirL"
 version="1.4.2"
 url="http://ghost-repo.de/builds/RiderGirL.zip"
 gui="http://"
