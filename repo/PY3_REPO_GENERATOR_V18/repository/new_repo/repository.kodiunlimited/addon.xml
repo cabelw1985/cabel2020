@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.kodiunlimited" name="[COLOR beige]Kodi-Unlimited[/COLOR]" version="1.0.0" provider-name="[COLOR beige]Kodi Unlimited[/COLOR]">
+	<extension point="xbmc.addon.repository" name="Repo Kodi Unlimited">
+		<info compressed="false">http://repo.kodi-unlimited.de/addons.xml</info>
+		<checksum>http://repo.kodi-unlimited.de/addons.xml.md5</checksum>
+		<datadir zip="true">http://repo.kodi-unlimited.de/Plugins/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>[COLOR beige]Repository[/COLOR]</summary>
+		<description></description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+

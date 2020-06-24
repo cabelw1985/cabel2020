@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<window>
+    <coordinates>
+        <left>635</left>
+        <top>180</top>
+    </coordinates>
+    <controls>
+        <control type="group">
+            <control type="image">
+                <description>Background Image</description>
+                <posx>0</posx>
+                <posy>0</posy>
+                <width>650</width>
+                <height>680</height>
+                <texture border="2">Background/FirstSave.png</texture>
+            </control>
+            <control type="label" id="101">
+                <description>header label</description>
+                <posx>0</posx>
+                <posy>0</posy>
+                <width>650</width>
+                <height>50</height>
+                <font>font13</font>
+				<textcolor>deepskyblue</textcolor>
+				<shadowcolor>black</shadowcolor>
+                <label></label>
+                <align>center</align>
+                <aligny>center</aligny>
+                <shadowcolor>FF000000</shadowcolor>
+            </control>
+            <control type="textbox" id="102">
+                <left>20</left>
+                <top>60</top>
+                <width>610</width>
+                <height>100</height>
+                <font>font12</font>
+				<textcolor>white</textcolor>
+				<shadowcolor>black</shadowcolor>
+                <align>left</align>
+                <aligny>top</aligny>
+                <label>[B]Bitte die Ersteinrichtung vornehmen![/B] [CR][COLOR darkcyan]Welche Daten willst du bei der Installation eines Builds behalten?[/COLOR]</label>
+            </control>
+        </control>
+        <control type="grouplist" id="9000">
+            <left>20</left>
+            <top>180</top>
+            <width>610</width>
+            <height>520</height>
+            <itemgap>-3</itemgap>
+            <align>top</align>
+            <orientation>vertical</orientation>
+            <onup>201</onup>
+            <ondown>201</ondown>
+            <onleft>201</onleft>
+            <onright>201</onright>
+			<control type="radiobutton" id="304">
+                <width>610</width>
+                <height>40</height>
+                <textwidth>565</textwidth>
+                <textoffsetx>10</textoffsetx>
+                <radioheight>45</radioheight>
+                <radioposx>530</radioposx>
+                <label>Behalte meine Quellen</label>
+                <font>font12</font>
+				<textcolor>white</textcolor>
+				<shadowcolor>black</shadowcolor>
+                <texturefocus>RadioButton/MenuItemFO.png</texturefocus>
+                <texturenofocus>RadioButton/MenuItemNF.png</texturenofocus>
+                <textureradioonfocus>RadioButton/radiobutton-focus.png</textureradioonfocus>
+                <textureradioonnofocus>RadioButton/radiobutton-focus.png</textureradioonnofocus>
+                <textureradioofffocus>RadioButton/radiobutton-focus.png</textureradioofffocus>
+                <textureradiooffnofocus>RadioButton/radiobutton-nofocus.png</textureradiooffnofocus>
+            </control>
+			<control type="radiobutton" id="309">
+                <width>610</width>
+                <height>40</height>
+                <textwidth>565</textwidth>
+                <textoffsetx>10</textoffsetx>
+                <radioheight>45</radioheight>
+                <radioposx>530</radioposx>
+                <label>Behalte meine Repositories</label>
+                <font>font12</font>
+				<textcolor>white</textcolor>
+				<shadowcolor>black</shadowcolor>
+                <texturefocus>RadioButton/MenuItemFO.png</texturefocus>
+                <texturenofocus>RadioButton/MenuItemNF.png</texturenofocus>
+                <textureradioonfocus>RadioButton/radiobutton-focus.png</textureradioonfocus>
+                <textureradioonnofocus>RadioButton/radiobutton-focus.png</textureradioonnofocus>
+                <textureradioofffocus>RadioButton/radiobutton-focus.png</textureradioofffocus>
+                <textureradiooffnofocus>RadioButton/radiobutton-nofocus.png</textureradiooffnofocus>
+            </control>
+			<control type="radiobutton" id="307">
+                <width>610</width>
+                <height>40</height>
+                <textwidth>565</textwidth>
+                <textoffsetx>10</textoffsetx>
+                <radioheight>45</radioheight>
+                <radioposx>530</radioposx>
+                <label>Behalte meine Favoriten</label>
+                <font>font12</font>
+				<textcolor>white</textcolor>
+				<shadowcolor>black</shadowcolor>
+                <texturefocus>RadioButton/MenuItemFO.png</texturefocus>
+                <texturenofocus>RadioButton/MenuItemNF.png</texturenofocus>
+                <textureradioonfocus>RadioButton/radiobutton-focus.png</textureradioonfocus>
+                <textureradioonnofocus>RadioButton/radiobutton-focus.png</textureradioonnofocus>
+                <textureradioofffocus>RadioButton/radiobutton-focus.png</textureradioofffocus>
+                <textureradiooffnofocus>RadioButton/radiobutton-nofocus.png</textureradiooffnofocus>
+            </control>
+            <control type="radiobutton" id="308">
+                <width>610</width>
+                <height>40</height>
+                <textwidth>565</textwidth>
+                <textoffsetx>10</textoffsetx>
+                <radioheight>45</radioheight>
+                <radioposx>530</radioposx>
+                <label>Behalte meine SuperFavoriten</label>
+                <font>font12</font>
+                <texturefocus>RadioButton/MenuItemFO.png</texturefocus>
+                <texturenofocus>RadioButton/MenuItemNF.png</texturenofocus>
+                <textureradioonfocus>RadioButton/radiobutton-focus.png</textureradioonfocus>
+                <textureradioonnofocus>RadioButton/radiobutton-focus.png</textureradioonnofocus>
+                <textureradioofffocus>RadioButton/radiobutton-focus.png</textureradioofffocus>
+                <textureradiooffnofocus>RadioButton/radiobutton-nofocus.png</textureradiooffnofocus>
+            </control>
+			<control type="radiobutton" id="306">
+                <width>610</width>
+                <height>40</height>
+                <textwidth>565</textwidth>
+                <textoffsetx>10</textoffsetx>
+                <radioheight>45</radioheight>
+                <radioposx>530</radioposx>
+                <label>Behalte meine AdvancedSettings</label>
+                <font>font12</font>
+				<textcolor>white</textcolor>
+				<shadowcolor>black</shadowcolor>
+                <texturefocus>RadioButton/MenuItemFO.png</texturefocus>
+                <texturenofocus>RadioButton/MenuItemNF.png</texturenofocus>
+                <textureradioonfocus>RadioButton/radiobutton-focus.png</textureradioonfocus>
+                <textureradioonnofocus>RadioButton/radiobutton-focus.png</textureradioonnofocus>
+                <textureradioofffocus>RadioButton/radiobutton-focus.png</textureradioofffocus>
+                <textureradiooffnofocus>RadioButton/radiobutton-nofocus.png</textureradiooffnofocus>
+            </control>
+            <control type="radiobutton" id="305">
+                <width>610</width>
+                <height>40</height>
+                <textwidth>565</textwidth>
+                <textoffsetx>10</textoffsetx>
+                <radioheight>45</radioheight>
+                <radioposx>530</radioposx>
+                <label>Behalte meine Profile</label>
+                <font>font12</font>
+                <texturefocus>RadioButton/MenuItemFO.png</texturefocus>
+                <texturenofocus>RadioButton/MenuItemNF.png</texturenofocus>
+                <textureradioonfocus>RadioButton/radiobutton-focus.png</textureradioonfocus>
+                <textureradioonnofocus>RadioButton/radiobutton-focus.png</textureradioonnofocus>
+                <textureradioofffocus>RadioButton/radiobutton-focus.png</textureradioofffocus>
+                <textureradiooffnofocus>RadioButton/radiobutton-nofocus.png</textureradiooffnofocus>
+            </control>
+			<control type="radiobutton" id="301">
+                <width>610</width>
+                <height>40</height>
+                <textwidth>565</textwidth>
+                <textoffsetx>10</textoffsetx>
+                <radioheight>45</radioheight>
+                <radioposx>530</radioposx>
+                <label>Behalte mein Trakt</label>
+                <font>font12</font>
+				<textcolor>white</textcolor>
+				<shadowcolor>black</shadowcolor>
+                <texturefocus>RadioButton/MenuItemFO.png</texturefocus>
+                <texturenofocus>RadioButton/MenuItemNF.png</texturenofocus>
+                <textureradioonfocus>RadioButton/radiobutton-focus.png</textureradioonfocus>
+                <textureradioonnofocus>RadioButton/radiobutton-focus.png</textureradioonnofocus>
+                <textureradioofffocus>RadioButton/radiobutton-focus.png</textureradioofffocus>
+                <textureradiooffnofocus>RadioButton/radiobutton-nofocus.png</textureradiooffnofocus>
+            </control>
+            <control type="radiobutton" id="302">
+                <width>610</width>
+                <height>40</height>
+                <textwidth>565</textwidth>
+                <textoffsetx>10</textoffsetx>
+                <radioheight>45</radioheight>
+                <radioposx>530</radioposx>
+                <label>Behalte mein Real Debrid</label>
+                <font>font12</font>
+				<textcolor>white</textcolor>
+				<shadowcolor>black</shadowcolor>
+                <texturefocus>RadioButton/MenuItemFO.png</texturefocus>
+                <texturenofocus>RadioButton/MenuItemNF.png</texturenofocus>
+                <textureradioonfocus>RadioButton/radiobutton-focus.png</textureradioonfocus>
+                <textureradioonnofocus>RadioButton/radiobutton-focus.png</textureradioonnofocus>
+                <textureradioofffocus>RadioButton/radiobutton-focus.png</textureradioofffocus>
+                <textureradiooffnofocus>RadioButton/radiobutton-nofocus.png</textureradiooffnofocus>
+            </control>
+            <control type="radiobutton" id="311">
+                <width>610</width>
+                <height>40</height>
+                <textwidth>565</textwidth>
+                <textoffsetx>10</textoffsetx>
+                <radioheight>45</radioheight>
+                <radioposx>530</radioposx>
+                <label>Reinige den Cache beim Start</label>
+                <font>font12</font>
+				<textcolor>white</textcolor>
+				<shadowcolor>black</shadowcolor>
+                <texturefocus>RadioButton/MenuItemFO.png</texturefocus>
+                <texturenofocus>RadioButton/MenuItemNF.png</texturenofocus>
+                <textureradioonfocus>RadioButton/radiobutton-focus.png</textureradioonfocus>
+                <textureradioonnofocus>RadioButton/radiobutton-focus.png</textureradioonnofocus>
+                <textureradioofffocus>RadioButton/radiobutton-focus.png</textureradioofffocus>
+                <textureradiooffnofocus>RadioButton/radiobutton-nofocus.png</textureradiooffnofocus>
+            </control>
+            <control type="radiobutton" id="312">
+                <width>610</width>
+                <height>40</height>
+                <textwidth>565</textwidth>
+                <textoffsetx>10</textoffsetx>
+                <radioheight>45</radioheight>
+                <radioposx>530</radioposx>
+                <label>Reinige Packages beim Start</label>
+                <font>font12</font>
+				<textcolor>white</textcolor>
+				<shadowcolor>black</shadowcolor>
+                <texturefocus>RadioButton/MenuItemFO.png</texturefocus>
+                <texturenofocus>RadioButton/MenuItemNF.png</texturenofocus>
+                <textureradioonfocus>RadioButton/radiobutton-focus.png</textureradioonfocus>
+                <textureradioonnofocus>RadioButton/radiobutton-focus.png</textureradioonnofocus>
+                <textureradioofffocus>RadioButton/radiobutton-focus.png</textureradioofffocus>
+                <textureradiooffnofocus>RadioButton/radiobutton-nofocus.png</textureradiooffnofocus>
+            </control>
+            <control type="radiobutton" id="313">
+                <width>610</width>
+                <height>40</height>
+                <textwidth>565</textwidth>
+                <textoffsetx>10</textoffsetx>
+                <radioheight>45</radioheight>
+                <radioposx>530</radioposx>
+                <label>Reinige alte Thumbnails beim Start</label>
+                <font>font12</font>
+				<textcolor>white</textcolor>
+				<shadowcolor>black</shadowcolor>
+                <texturefocus>RadioButton/MenuItemFO.png</texturefocus>
+                <texturenofocus>RadioButton/MenuItemNF.png</texturenofocus>
+                <textureradioonfocus>RadioButton/radiobutton-focus.png</textureradioonfocus>
+                <textureradioonnofocus>RadioButton/radiobutton-focus.png</textureradioonnofocus>
+                <textureradioofffocus>RadioButton/radiobutton-focus.png</textureradioofffocus>
+                <textureradiooffnofocus>RadioButton/radiobutton-nofocus.png</textureradiooffnofocus>
+            </control>
+        </control>
+        <control type="group" id="9001">
+            <control type="button" id="201">
+                <left>175</left>
+                <top>590</top>
+                <width>300</width>
+                <height>90</height>
+                <font>font13</font>
+                <textcolor>white</textcolor>
+				<shadowcolor>black</shadowcolor>
+                <label>Weiter</label>
+                <align>center</align>
+                <aligny>center</aligny>
+                <onup>9000</onup>
+                <ondown>9000</ondown>
+                <texturefocus border="40">Button/loguploader-dialogbutton-fo.png</texturefocus>
+                <texturenofocus border="40">Button/loguploader-dialogbutton-nofo.png</texturenofocus>
+            </control>
+        </control>
+    </controls>
+</window>

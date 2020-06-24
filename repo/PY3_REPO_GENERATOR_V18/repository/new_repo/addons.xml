@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="plugin.program.alexprivat" name="[B][COLOR aqua]alexprivat[/COLOR] [COLOR aqua]Wizard[/COLOR] [/B]" version="2.0.5" provider-name="alex Team">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="startup.py" start="startup" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">alex Wizard</summary>
+    <description lang="en"></description>
+    <platform>all</platform>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+				<screenshot>resources/screenshots/screenshot-01.png</screenshot>
+				<screenshot>resources/screenshots/screenshot-02.png</screenshot>
+				<screenshot>resources/screenshots/screenshot-03.png</screenshot>
+				<screenshot>resources/screenshots/screenshot-04.png</screenshot>
+				<screenshot>resources/screenshots/screenshot-05.png</screenshot>
+		</assets>
+  </extension>
+</addon>
+
+<addon id="plugin.program.ghost.wizard" name="[B][COLOR aqua]Ghost[/COLOR] [COLOR aqua]Wizard[/COLOR] [/B]" version="1.0.0" provider-name="Ghost Team">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="startup.py" start="startup" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Ghost Wizard</summary>
+    <description lang="en"></description>
+    <platform>all</platform>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+				<screenshot>resources/screenshots/screenshot-01.png</screenshot>
+				<screenshot>resources/screenshots/screenshot-02.png</screenshot>
+				<screenshot>resources/screenshots/screenshot-03.png</screenshot>
+				<screenshot>resources/screenshots/screenshot-04.png</screenshot>
+				<screenshot>resources/screenshots/screenshot-05.png</screenshot>
+		</assets>
+  </extension>
+</addon>
+
+
+				<!--// Balkan Green Wizard \\-->
+
+<addon
+	id="plugin.program.KodiBalkan"
+	name="[COLOR=lime]Balkan Green[/COLOR] [COLOR=white]Wizard[/COLOR]"
+	version="2.1.8"
+	provider-name="Kodi Balkan Green">
+	  <requires>
+		<import addon="xbmc.python" version="2.1.0"/>
+	  </requires>
+		  <extension point="xbmc.python.pluginsource" library="default.py">
+			<provides>executable</provides>
+		  </extension>
+		  <extension point="xbmc.service" library="startup.py" start="startup" />
+		  <extension point="xbmc.addon.metadata">
+		<summary lang="hr_HR">Balkan Green Wizard za instalaciju Kodi Balkan Green Builda. Balkan Green Build se automatski azuriraju svakom novom verzijom. Za vise informacija [COLOR cyan]Facebook[/COLOR] Grupa: [COLOR=lime]Balkan Green[/COLOR] - [COLOR=cyan]Web Site[/COLOR] [COLOR=lime]kodibalkan.org[/COLOR]</summary>
+		<summary lang="en_GB">Balkan Green Wizard to Install the Kodi Balkan Green Builds. Balkan Green Build use automatically updated with each new version build's. More information on [COLOR cyan]Facebook[/COLOR] Group: [COLOR=lime]Balkan Green[/COLOR] - [COLOR=cyan]Web Site[/COLOR] [COLOR=lime]kodibalkan.org[/COLOR]</summary>
+		<description lang="hr_HR">Build za sve korisnike Kodija. Besplatno koristenje za sve, bez ogranicenja i zabrana. [COLOR=lime]Ne placajte ovu besplatnu instalaciju[/COLOR]. Ovo je Balkan Green Wizard Posjetite nas na [COLOR cyan]Facebook[/COLOR] Grupa: [COLOR=lime]Balkan Green[/COLOR] ili putem [COLOR=cyan]web [/COLOR]stranice [COLOR=cyan]kodibalkan.org[/COLOR]. Vas [COLOR=lime]Kodi Balkan Green[/COLOR]</description>
+		<description lang="en_GB">Build for all Kodi users. Free use for all without limits. [COLOR=lime]Do not pay this free installation[/COLOR]. This is the Balkan Green Wizard. Visit on [COLOR cyan]Facebook[/COLOR] Group: [COLOR=lime]Balkan Green[/COLOR] or [COLOR=cyan]web[/COLOR] site [COLOR = cyan]kodibalkan.org[/COLOR]. Your [COLOR=lime]Kodi Balkan Green[/COLOR]</description>
+		<news lang="hr_HR">Nova verzija [COLOR=lime]Balkan Green[/COLOR] [COLOR=white]Wizard[/COLOR]-a. Verzija: 2.1.8 Ispravljeni nedostatci, izmijenjen izgled i funkcionalnost. Za vise informacija [COLOR cyan]Facebook[/COLOR] Grupa: [COLOR=lime]Balkan Green[/COLOR] - [COLOR=cyan]Web Site[/COLOR] [COLOR=lime]kodibalkan.org[/COLOR]</news>
+		<news lang="en_GB">New version of the [COLOR=lime]Balkan Green[/COLOR] [COLOR=white]Wizard[/COLOR]. Version: 2.1.8 Fixed bugs, changed layout and functionality. More information on [COLOR cyan]Facebook[/COLOR] Group: [COLOR=lime]Balkan Green[/COLOR] - [COLOR=cyan]Web Site[/COLOR] [COLOR=lime]kodibalkan.org[/COLOR]</news>
+		<disclaimer lang="hr_HR">Autor ovog wizarda ne sadrzi bilo koji sadrzaj koji se nalazi i nema vezu s bilo kojim davateljima sadrzaja. Koristite na vlastiti rizik! Za vise informacija [COLOR cyan]Facebook[/COLOR] Grupa: [COLOR=lime]Balkan Green[/COLOR] - [COLOR=cyan]Web Site[/COLOR] [COLOR=lime]kodibalkan.org[/COLOR]</disclaimer>
+		<disclaimer lang="en_GB">Author of this wizard does not contain any content and has no connection with any content provider. Use at your own risk! More information on [COLOR cyan]Facebook[/COLOR] Group: [COLOR=lime]Balkan Green[/COLOR] - [COLOR=cyan]Web Site[/COLOR] [COLOR=lime]kodibalkan.org[/COLOR]</disclaimer>
+			<platform>all</platform>
+			<website>http://kodibalkan.org</website>
+  </extension>
+</addon>
+
+<!--
+
+############################################################################
+#				            $$ $										   #
+#				       $$$$$$$$$$										   #
+#				  $ $$$$ $      $ 									       #
+#				$$$$$            $$										   #
+#				 $               $										   #
+#				  $              $$										   #
+#				  $$              $										   #
+#				   $     $ $$$$$    $									   #
+#				    $$$$$   $  $   $								       #
+#				    $   $   $  $    $									   #
+#				    $ $ $$   $$     $$$									   #
+#				     $$$$ $$$       $$$									   #
+#				      $ $$        $$$  $							       #
+#				       $$      $$$$ $ $$$$$ $							   #
+#				       $$   $$$$$$$ $$$   $$$$$$$						   #
+#				        $$$$     $$$$$$$      $$$$$$					   #
+#				                   $$$$$$$  $$$$$$  $$					   #
+#				                  $$$$$ $$$$        $					   #
+#				                   $$$    $      $$  $					   #
+#				                   $$$   $$      $  $					   #
+#				                      $   $$     $$ $ 					   #
+#				                     $   $$    $  $						   #
+#				                     $$   $ $  $  $						   #
+#				                   $    $ $  $   $$						   #
+#				                   $ $   $$$$$  $$$$$					   #
+#				                     $$$$$$$$$$$$$$$					   #
+#				                     $$$ $$$$$$$$$$$$					   #
+#				                    $$$$$$$$ $ $$$$$					   #
+#				                  $$$$$$$$$$ $$ $$$$$$					   #
+#				                  $$$$$$$$$$$							   #
+############################################################################
+
+-->
+
+<addon id="plugin.program.openkd-allinone-wizard" name="[B][COLOR darkcyan]OpenKD[/B][/COLOR] [COLORwhite]All In One[/COLOR] [COLOR darkcyan]Wizard[/COLOR]" version="5.0.2" provider-name="OpenKD">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="startup.py" start="startup" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">[COLOR darkcyan]OpenKD[/COLOR] [COLORwhite]AllInOne [COLOR darkcyan]Wizard[/COLOR]</summary>
+    <description lang="en">Einfach fertig vorkonfigurierte Kodi-Builds installieren...[CR][CR]Besuchen sie uns in unserer Facebook-Gruppe OpenKD Support:[CR][COLOR darkcyan]https://www.facebook.com/groups/OpenKD[/COLOR][CR][CR]Spenden-Link:[CR][COLOR darkcyan]https://www.paypal.me/OpenKD[/COLOR]</description>
+    <platform>all</platform>
+	<forum>https://www.paypal.me/OpenKD</forum>
+	<assets>
+		<icon>icon.png</icon>
+		<fanart>fanart.jpg</fanart>
+	</assets>
+  </extension>
+</addon>
+
+<addon id="plugin.program.openkdwizard" name="[B][COLOR darkcyan]OpenKD Multi Wizard[/COLOR][/B]" version="5.01" provider-name="OpenKD">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="run_openkd_wizard.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="run_openkd_service.py" start="run"/>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">OpenKD Multi Wizard</summary>
+    <description lang="en">OpenKD Multi Wizard ,OpenKD Addons and Repos Installer and APK's.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="repository.Absolut.Kodi" name="[COLOR dodgerblue]Absolut[/COLOR] [COLOR ghostwhite]Kodi[/COLOR] [COLOR dodgerblue]Repository[/COLOR]" version="1.0.4" provider-name="[COLOR dodgerblue]Absolut Kodi [COLOR ghostwhite]Team[/COLOR] | [COLOR red]El[COLOR white]Turko[/COLOR]">
+    <extension point="xbmc.addon.repository" name="Absolut Kodi Repository">
+		<info compressed="false">http://absolut-kodi.com/repository/addons.xml</info>
+		<checksum>http://absolut-kodi.com/repository/addons.xml.md5</checksum>
+		<datadir zip="true">http://absolut-kodi.com/repository/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>[COLOR dodgerblue]Absolut[/COLOR] [COLOR ghostwhite]Kodi[/COLOR] [COLOR dodgerblue]Repository[/COLOR]</summary>
+        <description>[COLOR dodgerblue]Absolut[/COLOR] [COLOR ghostwhite]Kodi[/COLOR] [COLOR dodgerblue]Repository[/COLOR]
+
+[COLOR white]Absolut Kodi News : [COLOR dodgerblue]http://absolut-kodi.com[/COLOR]
+[COLOR white]Facebook Gruppe : [COLOR dodgerblue]Absolut[/COLOR] [COLOR white]Kodi[/COLOR]
+[COLOR red]Danke fur den Support : [COLOR white]http://paypal.me/AbsolutKodi[/COLOR]
+[COLOR red]Thanks for the Support : [COLOR white]http://paypal.me/AbsolutKodi[/COLOR]
+      </description>
+        <platform>all</platform>
+      <assets>
+       <icon>icon.gif</icon>
+       <fanart>fanart.gif</fanart>
+  </assets>
+  </extension>
+</addon>
+
+<addon id="repository.colossus" name="[COLOR gold]Colossus Repository[/COLOR]" version="999.999.9" provider-name="Colossal">
+    <extension point="xbmc.addon.repository" name="[COLOR gold]Colossus Repository[/COLOR]">
+    <dir>
+        <info compressed="false">https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/addons.xml</info>
+        <checksum>https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/zips/</datadir>
+    </dir>
+        <info compressed="false">https://raw.githubusercontent.com/covenantkodi/repository.colossus/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/covenantkodi/repository.colossus/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/covenantkodi/repository.colossus/master/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Home Of 3rd Party Addons</summary>
+        <description></description>
+        <platform>all</platform>
+    </extension>
+</addon>
+
+<addon id="repository.Ghost" name="[B][COLOR ghostwhite]Ghost Repo[/COLOR][/B]" version="2.0.4" provider-name="Ghost">
+	<extension point="xbmc.addon.repository" name="Ghost Repo">
+		<info compressed="false">https://ghost-repo.de/Plugins/addons.xml</info>
+		<checksum>https://ghost-repo.de/Plugins/addons.xml.md5</checksum>
+		<datadir zip="true">https://ghost-repo.de/Plugins/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>[COLOR ghostwhite]Ghost Repo[/COLOR]</summary>
+		<description>[COLOR ghostwhite]Ghost Repo[/COLOR]</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.HalowTV" name="  [COLOR lime][B]HALOW [/COLOR][COLOR white]Repository[/B][/COLOR]" version="6.0.0" provider-name="HalowRepo">
+	<extension point="xbmc.addon.repository" name="  [COLOR lime][B]Halow[/COLOR][COLOR white]Repository[/B][/COLOR]">
+        <info compressed="false">https://raw.githubusercontent.com/HalowTV/HalowTV/master/zips/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/HalowTV/HalowTV/master/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/HalowTV/HalowTV/master/zips/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>halowiptv.blogspot.se</summary>
+		<description>Download and install addons from Halow Repo</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.hsk_repo" name="[COLOR blue]HSK-DE Repository[/COLOR]" version="1.0.1" provider-name="Loki1979">
+	<extension point="xbmc.addon.repository" name="Test Repository">
+		<info compressed="false">https://downloads.guidos-skinbase.de/hsk_repo/addons.xml</info>
+		<checksum>https://downloads.guidos-skinbase.de/hsk_repo/addons.xml.md5</checksum>
+		<datadir zip="true">https://downloads.guidos-skinbase.de/hsk_repo/</datadir>
+	</extension>
+    <extension point="xbmc.addon.metadata">
+	<summary></summary>
+	<description></description>
+	<disclaimer></disclaimer>
+	<language></language>
+	<platform>all</platform>
+	<license></license>
+	<forum></forum>
+	<website></website>
+	<email></email>
+	<source></source>
+	<news></news>
+    <assets>
+		<icon>resources/icon.png</icon>
+		<fanart>resources/fanart.jpg</fanart>
+		<banner></banner>
+		<clearlogo></clearlogo>
+		<screenshot></screenshot>
+	</assets>
+	</extension>
+</addon>
+
+<addon id="repository.KNE" name="[B][COLOR lightblue]Kodi[/COLOR] [COLOR white]Neu[/COLOR] [COLOR lightblue]Erleben[/COLOR] Repository[/B]" version="1.1.2" provider-name="[COLOR blue]PAINKILLER[/COLOR]">
+    <extension point="xbmc.addon.repository" name="Kodi Neu Erleben Repository">
+		<info compressed="false">https://repo.kodineuerleben.eu/addons.xml</info>
+		<checksum>https://repo.kodineuerleben.eu/addons.xml.md5</checksum>
+		<datadir zip="true">https://repo.kodineuerleben.eu/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Kodi Neu Erleben Repository</summary>
+        <description>This repository belongs to the Kodi Group: Kodi Neu Erleben [CR] Visit us @ https://forum.kodineuerleben.eu</description>
+        <platform>all</platform>
+    </extension>
+</addon>
+
+<addon id="repository.kodiunlimited" name="[COLOR beige]Kodi-Unlimited[/COLOR]" version="1.0.0" provider-name="[COLOR beige]Kodi Unlimited[/COLOR]">
+	<extension point="xbmc.addon.repository" name="Repo Kodi Unlimited">
+		<info compressed="false">http://repo.kodi-unlimited.de/addons.xml</info>
+		<checksum>http://repo.kodi-unlimited.de/addons.xml.md5</checksum>
+		<datadir zip="true">http://repo.kodi-unlimited.de/Plugins/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>[COLOR beige]Repository[/COLOR]</summary>
+		<description></description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.kus.allinone" name="[B][COLORdeepskyblue]K.U.S[/COLOR][/B] [COLORwhite]All In One[/COLOR] [COLORdeepskyblue]Repository[/COLOR]" version="3.3" provider-name="[COLORdeepskyblue]K.U.S Team[/COLOR]">
+    <extension point="xbmc.addon.repository" name="[COLORdeepskyblue]K.U.S Addon Repository[/COLOR]">
+        <info compressed="false">http://kodi.my-cydia-ig.de/RepoAddons/addons.xml</info>
+        <checksum>http://kodi.my-cydia-ig.de/RepoAddons/addons.xml.md5</checksum>
+        <datadir zip="true">http://kodi.my-cydia-ig.de/RepoAddons/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>[COLORdeepskyblue]K.U.S-REPOSITORY[/COLOR]</summary>
+        <description>Downloade und installiere Addons von der KODI Unlimited Support-Repository.[CR][CR]Kontakt + Support:[CR][COLORdeepskyblue]https://www.facebook.com/groups/kodiunlimited[/COLOR][CR]Spende:[CR][COLORdeepskyblue]https://www.paypal.me/KodiUnlimited[/COLOR][CR][CR][COLORred]Der Ersteller des Repository, ist nicht der Ersteller der Addons und somit nicht Verantwortlich für dessen Inhalt![/COLOR]</description>
+        <platform>all</platform>
+    </extension>
+</addon>
+
+<addon id="repository.openkd.addons" name="[COLOR lightyellow]OpenKD [/COLOR][COLOR darkcyan]Repository[/COLOR]" version="1.0.7" provider-name="[COLOR blue]OpenKD Team[/COLOR]">
+    <extension point="xbmc.addon.repository" name="[COLOR blue]OpenKD Repository[/COLOR]">
+        <info compressed="false">http://openkd.tv/wbb/openkd/repo/addons.xml</info>
+        <checksum>http://openkd.tv/wbb/openkd/repo/addons.xml.md5</checksum>
+        <datadir zip="true">http://openkd.tv/wbb/openkd/repo/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>[COLOR darkcyan]OpenKD-Repository[/COLOR]</summary>
+        <description>OpenKD
+https://www.facebook.com/OpenKD</description>
+        <platform>all</platform>
+    </extension>
+</addon>
+
+<addon id="repository.robinhood" name="[B][COLOR lime]Robin Hood[B][COLOR white] Repository[/COLOR][/B]" version="1.9" provider-name="RobinHood">
+	<extension point="xbmc.addon.repository" name="RobinHood repository">
+    <info compressed="false">http://kodibalkan.com/repo/programi/addons.xml</info>
+		<checksum>http://kodibalkan.com/repo/programi/addons.xml.md5</checksum>
+		<datadir zip="true">http://kodibalkan.com/repo/programi/</datadir>
+	</extension>
+	  <extension point="xbmc.addon.metadata">
+		<summary lang="en">Robin Hood Repository</summary>
+		<description lang="en">Thanks for using Robin Hood Repostory...</description>
+		<platform>all</platform>
+		<forum>http://koditalk.org/</forum>
+		<website>https://streamhelp.org/</website>
+	  <assets>
+		<icon>icon.gif</icon>
+		<screenshot>resources/screenshots/screenshot1.jpg</screenshot>
+		<screenshot>resources/screenshots/screenshot2.jpg</screenshot>
+		<screenshot>resources/screenshots/screenshot3.jpg</screenshot>
+		<screenshot>resources/screenshots/screenshot4.jpg</screenshot>
+		<screenshot>resources/screenshots/screenshot5.jpg</screenshot>
+	  </assets>
+	  </extension>
+</addon>
+
+<addon id="repository.sgkodi" name="[B][COLORdeepskyblue]SGK[/COLOR][/B][COLORwhite]ODI REPOSITORY[/COLOR]" version="1.1.5" provider-name="SGK">
+    <extension point="xbmc.addon.repository" name="Kodi Addons + Repos">
+		<info compressed="false">http://sgkodi.de/SGK-Repo/Repo-Daten/addons.xml</info>
+		<checksum>http://sgkodi.de/SGK-Repo/Repo-Daten/addons.xml.md5</checksum>
+		<datadir zip="true">http://sgkodi.de/SGK-Repo/Repo-Daten/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>SGK All in One Repository</summary>
+        <description>Eine Sammlung von KODI-Repositories und Addons.[CR][CR]Kontakt + Support:[CR][COLORdeepskyblue]https://www.facebook.com/groups/kodiunlimited[/COLOR][CR]Spenden - Link:[CR][COLORdeepskyblue]https://www.paypal.me/KodiUnlimited[/COLOR]</description>
+        <platform>all</platform>
+		<assets>
+        <screenshot>resources/screenshot1.png</screenshot>
+        <screenshot>resources/screenshot2.png</screenshot>
+		<screenshot>resources/screenshot3.png</screenshot>
+		<icon>icon.png</icon>
+		<fanart>fanart.jpg</fanart>
+		</assets>
+    </extension>
+</addon>
+</addons>
