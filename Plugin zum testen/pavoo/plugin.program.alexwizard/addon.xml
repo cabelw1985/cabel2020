@@ -2,7 +2,7 @@
 
                    <!--// alexwizard \\-->
 
-<addon id="plugin.program.alexwizard" name="[B][COLOR lime][COLOR lime]alexwizard[COLOR lime][/COLOR][/B]" version="1.0.1" provider-name="[B][COLOR lime]alex[/COLOR][/B]">.
+<addon id="plugin.program.alexwizard" name="[B][COLOR lime][COLOR lime]alexwizard[COLOR lime][/COLOR][/B]" version="1.0.3" provider-name="[B][COLOR lime]alex[/COLOR][/B]">.
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>

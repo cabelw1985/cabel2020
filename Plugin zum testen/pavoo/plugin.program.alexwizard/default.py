@@ -4466,7 +4466,7 @@ def Installables():
 	window.placeControl(APKButton,12 , 17 ,  7, 8)
 	window.connect(APKButton, lambda: APKList())
 	
-	ROMButton = pyxbmct.Button('[COLOR %s][B]-[/B][/COLOR]' % OTHER_BUTTONS_TEXT,focusTexture=EXIT,noFocusTexture=BUTTON)
+	ROMButton = pyxbmct.Button('[COLOR %s][B]Test[/B][/COLOR]' % OTHER_BUTTONS_TEXT,focusTexture=EXIT,noFocusTexture=BUTTON)
 	window.placeControl(ROMButton,12 , 25 ,  7, 8)
 	window.connect(ROMButton, lambda: RomList())
 	
