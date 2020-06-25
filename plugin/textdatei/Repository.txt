@@ -19,7 +19,7 @@ repositoryxml " : " " ,
 repositoryurl " : " " ,
 icon " : " " ,
 adult " : false ,
- description " : " Das offizielle YouTube-Add-on. ""
+description=:" Das offizielle YouTube-Add-on"
 
 name="XStream Repository"
 plugin="repository.xstream"
