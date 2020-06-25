@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+                   <!--// alexwizard \\-->
+
+<addon id="plugin.program.alexwizard" name="[B][COLOR lime][COLOR lime]alexwizard[COLOR lime][/COLOR][/B]" version="1.0.0" provider-name="[B][COLOR lime]alex[/COLOR][/B]">.
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="startup.py" start="startup" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Pavoo Wizard</summary>
+    <description lang="en">Thanks for using Pavoo Wizard...</description>
+    <platform>all</platform>
+	<website>https://www.kodibalkan.com</website>
+  </extension>
+</addon>
