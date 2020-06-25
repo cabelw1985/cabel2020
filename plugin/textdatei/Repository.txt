@@ -9,4 +9,14 @@ fanart="https://github.com/cabelw1985/cabel2020/raw/master/repo/PY3_REPO_GENERAT
 adult="no"
 description="XStream Repository"
 
-
+      " name " : " Spotify w / Repository " ,
+       " type " : " addon " ,
+       " section " : false ,
+       " plugin " : " plugin.audio.spotify " ,
+       " url " : " https: // kodi-community- addons.github.io/repository.marcelveldt/plugin.audio.spotify/ " ,
+       " repository " : "repository.marcelveldt ",
+       " repositoryxml " : " https://raw.githubusercontent.com/kodi-community-addons/repository.marcelveldt/master/addons.xml " ,
+       " repositoryurl " : " https: //kodi-community-addons.github. io / repository.marcelveldt / repository.marcelveldt / " ,
+       " icon " : " " ,
+       " adult " : false ,
+       " description " : " Das offizielle Spotify-Add-on. "
