@@ -9,7 +9,7 @@ fanart="https://github.com/cabelw1985/cabel2020/raw/master/repo/PY3_REPO_GENERAT
 adult="no"
 description="XStream Repository"
 
-name " : " YouTube ohne Repository " ,
+name="YouTube ohne Repository"
 type " : " addon " ,
 section " : false ,
 plugin " : " plugin.video.youtube " ,
