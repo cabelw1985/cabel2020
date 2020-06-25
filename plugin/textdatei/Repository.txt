@@ -9,17 +9,17 @@ fanart="https://github.com/cabelw1985/cabel2020/raw/master/repo/PY3_REPO_GENERAT
 adult="no"
 description="XStream Repository"
 
-      " name " : " YouTube ohne Repository " ,
-       " type " : " addon " ,
-       " section " : false ,
-       " plugin " : " plugin.video.youtube " ,
-       " url " : " http: //mirrors.kodi .tv / addons / leia / plugin.video.youtube / plugin.video.youtube-6.5.2.zip " ,
-       " repository " : "" ,
-       "repositoryxml " : " " ,
-       " repositoryurl " : " " ,
-       " icon " : " " ,
-       " adult " : false ,
-       " description " : " Das offizielle YouTube-Add-on. ""
+name " : " YouTube ohne Repository " ,
+type " : " addon " ,
+section " : false ,
+plugin " : " plugin.video.youtube " ,
+url " : " http: //mirrors.kodi .tv / addons / leia / plugin.video.youtube / plugin.video.youtube-6.5.2.zip " ,
+repository " : "" ,
+repositoryxml " : " " ,
+repositoryurl " : " " ,
+icon " : " " ,
+adult " : false ,
+ description " : " Das offizielle YouTube-Add-on. ""
 
 name="XStream Repository"
 plugin="repository.xstream"
