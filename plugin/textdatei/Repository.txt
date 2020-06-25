@@ -2,7 +2,7 @@ name="YouTube ohne Repository"
 type " : " addon " ,
 section " : false ,
 plugin " : " plugin.video.youtube " ,
-url " : " https://github.com/cabelw1985/repocabel/blob/master/zip/plugin.video.youtube/plugin.video.youtube-6.5.0.zip " ,
+url " : " https://github.com/cabelw1985/repocabel/raw/master/zip/plugin.video.youtube/plugin.video.youtube-6.5.0.zip " ,
 repository " : "" ,
 repositoryxml " : " " ,
 repositoryurl " : " " ,
@@ -14,7 +14,7 @@ name="YouTube ohne Repository"
 type:"addon"
 section:"false"
 plugin:"plugin.video.youtube"
-url:https://github.com/cabelw1985/repocabel/blob/master/zip/plugin.video.youtube/plugin.video.youtube-6.5.0.zip"
+url:https://github.com/cabelw1985/repocabel/raw/master/zip/plugin.video.youtube/plugin.video.youtube-6.5.0.zip"
 repository " : "" ,
 repositoryxml " : " " ,
 repositoryurl " : " " ,
