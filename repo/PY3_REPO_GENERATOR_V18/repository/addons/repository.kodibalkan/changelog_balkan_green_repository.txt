@@ -1,0 +1,56 @@
+Verzija 0.0.1
+- Pocetna verzija
+Verzija 1.0.0
+- Prva verzija
+Verzija 1.1.0
+- Dodavanje aplikacija
+Verzija 1.2.0
+- Dodavanje aplikacija
+Version 1.2.1
+- Ispravljanje i dodavanje aplikacija
+Verzija 1.2.2
+- Dodavanje aplikacija
+Verzija 1.2.3
+- Dodavanje aplikacija
+Verzija 1.2.4
+- Dodavanje aplikacija
+Verzija 1.2.5
+- Dodavanje aplikacija
+Verzija 1.2.6
+- Dodavanje aplikacija
+Verzija 2.0.0
+- Dodavanje novih mogucnosti
+Verzija 2.0.1
+- Dodavanje aplikacija
+Verzija 2.0.2
+- Dodavanje aplikacija
+Verzija 2.1.0
+- Promijena izgleda i naziva
+Verzija 2.1.0
+- Dodavanje aplikacija
+Verzija 2.1.1
+- Dodavanje aplikacija
+Verzija 2.1.1
+- Dodavanje aplikacija i promijena izgleda
+Verzija 2.1.2
+- Dodavanje aplikacija i promijena izgleda
+Verzija 2.1.3
+- Dodavanje aplikacija i promijena izgleda
+Verzija 2.1.4
+- Dodavanje aplikacija
+Verzija 2.1.5
+- Dodavanje aplikacija
+Verzija 2.1.6
+- Dodavanje aplikacija i promijena izgleda
+Verzija 2.1.7
+- Brisanje aplikacija i promijena izgleda
+Verzija 2.1.8
+- Dodavanje aplikacija
+Verzija 2.1.9
+- Dodavanje aplikacija
+Verzija 2.2.0
+-Promenjena adresa servera
+Verzija 2.2.1
+Dodavanje aplikacija
+Verzija 2.2.1
+Ispravljanje gresaka 

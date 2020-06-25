@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<addon id="repository.pavooTv" name="[B]PavooTv Repository[/B]" version="1.3" provider-name="PavooTv">
+	<extension point="xbmc.addon.repository" name="Pavoo repository">
+	
+
+		
+	
+	<dir>
+		<info compressed="false">http://pavootv.com/repo/programi/addons.xml</info>
+		<checksum>http://pavootv.com/repo/programi/addons.xml.md5</checksum>
+		<datadir zip="true">http://pavootv.com/repo/programi/</datadir>
+		 </dir>
+		 
+    <dir>
+		<info compressed="false">http://kodibalkan.com/repo/programi/addons.xml</info>
+		<checksum>http://kodibalkan.com/repo/addon.xml</checksum>
+		<datadir zip="true">http://kodibalkan.com/repo/programi/</datadir>
+	</dir>
+		  
+		 
+	<dir>
+			<info compressed="false">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/</datadir>
+	</dir>
+		
+	<dir>
+		<info compressed="false">https://raw.githubusercontent.com/kodimatija/ZadarHRrepo/master/zips/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/kodimatija/ZadarHRrepo/master/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/kodimatija/ZadarHRrepo/master/zips/</datadir>
+	</dir>
+	
+	<dir>
+		<info compressed="false"></info>
+		<checksum></checksum>
+		<datadir zip="true"></datadir>
+	</dir>
+		 
+	</extension>
+	  <extension point="xbmc.addon.metadata">
+		<summary lang="en">Pavoo Repository</summary>
+		<description lang="en">Hvala sto korisitite repostory by Pavoo</description>
+		<platform>all</platform>
+		<forum></forum>
+		<website>http://pavootv.com</website>
+	  <assets>
+		<icon>icon.gif</icon>
+		<screenshot>resources/screenshots/screenshot1.jpg</screenshot>
+		<screenshot>resources/screenshots/screenshot2.jpg</screenshot>
+		<screenshot>resources/screenshots/screenshot3.jpg</screenshot>
+		<screenshot>resources/screenshots/screenshot4.jpg</screenshot>
+		<screenshot>resources/screenshots/screenshot5.jpg</screenshot>
+	  </assets>
+	  </extension>
+</addon>
