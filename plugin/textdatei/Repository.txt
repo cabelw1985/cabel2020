@@ -22,25 +22,14 @@ icon " : " " ,
 adult " : false ,
 description=:" Das offizielle YouTube-Add-on"
 
-name="XStream Repository"
-plugin="repository.xstream"
-url="https://github.com/cabelw1985/cabel2020/raw/master/repo/PY3_REPO_GENERATOR_V18/repository/new_repo/repository.xstream/repository.xstream-1.1.4.zip"
-repository="repository.xstream"
-repositoryxml="https://raw.githubusercontent.com/cabelw1985/cabel2020/master/repo/PY3_REPO_GENERATOR_V18/repository/new_repo/addons.xml"
-repositoryurl="https://github.com/cabelw1985/cabel2020/raw/master/repo/PY3_REPO_GENERATOR_V18/repository/new_repo/repository.xstream"
-icon="https://github.com/cabelw1985/cabel2020/raw/master/repo/PY3_REPO_GENERATOR_V18/repository/new_repo/repository.xstream/icon.png"
-fanart="https://github.com/cabelw1985/cabel2020/raw/master/repo/PY3_REPO_GENERATOR_V18/repository/new_repo/repository.xstream/fanart.jpg"
-adult="no"
-description="XStream Repository"
-
-      " name " : " Spotify w / Repository " ,
-       " type " : " addon " ,
-       " section " : false ,
-       " plugin " : " plugin.audio.spotify " ,
-       " url " : " https: // kodi-community- addons.github.io/repository.marcelveldt/plugin.audio.spotify/ " ,
-       " repository " : "repository.marcelveldt ",
-       " repositoryxml " : " https://raw.githubusercontent.com/kodi-community-addons/repository.marcelveldt/master/addons.xml " ,
-       " repositoryurl " : " https: //kodi-community-addons.github. io / repository.marcelveldt / repository.marcelveldt / " ,
-       " icon " : " " ,
-       " adult " : false ,
-       " description " : " Das offizielle Spotify-Add-on. "
+name="YouTube ohne Repository"
+type:"addon"
+section:"false"
+plugin:"plugin.video.youtube"
+url:https://github.com/cabelw1985/repocabel/raw/master/zip/plugin.video.youtube/plugin.video.youtube-6.5.0.zip"
+repository " : "" ,
+repositoryxml " : " " ,
+repositoryurl " : " " ,
+icon " : " " ,
+adult " : false ,
+description=:" Das offizielle YouTube-Add-on"
