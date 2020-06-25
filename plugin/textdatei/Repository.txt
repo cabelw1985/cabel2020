@@ -1,3 +1,26 @@
+name="Spotify"
+plugin="repository.xstream"
+url="https://github.com/cabelw1985/cabel2020/raw/master/repo/PY3_REPO_GENERATOR_V18/repository/new_repo/repository.xstream/repository.xstream-1.1.4.zip"
+repository="repository.xstream"
+repositoryxml="https://raw.githubusercontent.com/cabelw1985/cabel2020/master/repo/PY3_REPO_GENERATOR_V18/repository/new_repo/addons.xml"
+repositoryurl="https://github.com/cabelw1985/cabel2020/raw/master/repo/PY3_REPO_GENERATOR_V18/repository/new_repo/repository.xstream"
+icon="https://github.com/cabelw1985/cabel2020/raw/master/repo/PY3_REPO_GENERATOR_V18/repository/new_repo/repository.xstream/icon.png"
+fanart="https://github.com/cabelw1985/cabel2020/raw/master/repo/PY3_REPO_GENERATOR_V18/repository/new_repo/repository.xstream/fanart.jpg"
+adult="no"
+description="XStream Repository"
+
+      " name " : " YouTube ohne Repository " ,
+       " type " : " addon " ,
+       " section " : false ,
+       " plugin " : " plugin.video.youtube " ,
+       " url " : " http: //mirrors.kodi .tv / addons / leia / plugin.video.youtube / plugin.video.youtube-6.5.2.zip " ,
+       " repository " : "" ,
+       "repositoryxml " : " " ,
+       " repositoryurl " : " " ,
+       " icon " : " " ,
+       " adult " : false ,
+       " description " : " Das offizielle YouTube-Add-on. ""
+
 name="XStream Repository"
 plugin="repository.xstream"
 url="https://github.com/cabelw1985/cabel2020/raw/master/repo/PY3_REPO_GENERATOR_V18/repository/new_repo/repository.xstream/repository.xstream-1.1.4.zip"
