@@ -7,7 +7,7 @@ repositoryurl="https://github.com/cabelw1985/cabel2020/raw/master/repo/PY3_REPO_
 icon="https://github.com/cabelw1985/cabel2020/raw/master/repo/PY3_REPO_GENERATOR_V18/repository/new_repo/repository.xstream/icon.png"
 fanart="https://github.com/cabelw1985/cabel2020/raw/master/repo/PY3_REPO_GENERATOR_V18/repository/new_repo/repository.xstream/fanart.jpg"
 adult="no"
-description="XStream Repository"
+description="Spotify"
 
 name="YouTube ohne Repository"
 type " : " addon " ,
