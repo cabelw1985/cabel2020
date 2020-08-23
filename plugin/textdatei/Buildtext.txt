@@ -504,14 +504,18 @@ adult="YES"
 description="Dr Alex test [COLOR red]mit XXX[/COLOR]"
 counter="1"
 
-
-
-
-
-
-
-
-
+name="Dra Alex Bib Test"
+version="1.0.0"
+url="https://www.dropbox.com/s/mg41nysh6464fdv/Alex%20Bibliothek.zip?dl=1"
+gui="http://"
+kodi="18.0"
+theme="http://"
+icon="http://ghost-repo.de/Wizard2/CyberGirl.jpg"
+fanart="http://ghost-repo.de/Wizard2/CyberGirl.jpg"
+preview="http://"
+adult="YES"
+description="Dr Alex Bib test [COLOR red]mit XXX[/COLOR]"
+counter="1"
 
 
 
