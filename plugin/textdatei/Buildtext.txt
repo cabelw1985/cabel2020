@@ -491,7 +491,18 @@ preview="http://"
 adult="yes"
 description="Kodi 17.6"
 
-
+name="Dra Alex Test"
+version="1.0.0"
+url="https://www.dropbox.com/s/183oauto4blf5u0/.kodi.zip?dl=1"
+gui="http://"
+kodi="18.0"
+theme="http://"
+icon="http://ghost-repo.de/Wizard2/CyberGirl.jpg"
+fanart="http://ghost-repo.de/Wizard2/CyberGirl.jpg"
+preview="http://"
+adult="YES"
+description="Dr Alex test [COLOR red]mit XXX[/COLOR]"
+counter="1"
 
 
 
