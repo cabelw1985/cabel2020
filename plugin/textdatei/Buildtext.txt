@@ -517,7 +517,18 @@ adult="YES"
 description="Dr Alex Bib test [COLOR red]mit XXX[/COLOR]"
 counter="1"
 
-
+name="Emby A Virus"
+version="1.0.0"
+url="https://www.dropbox.com/s/5guui5ji9p3rea7/Alex%20Emby%20Adult.zip?dl=1"
+gui="http://"
+kodi="18.0"
+theme="http://"
+icon="http://ghost-repo.de/Wizard2/CyberGirl.jpg"
+fanart="http://ghost-repo.de/Wizard2/CyberGirl.jpg"
+preview="http://"
+adult="YES"
+description="Emby AVirus [COLOR red]mit XXX[/COLOR]"
+counter="1"
 
 
 
